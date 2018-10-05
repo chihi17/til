@@ -12,7 +12,7 @@ private void CodeSample()
 {  
   int a = 1;  
 }  
->~~~
+~~~
 
 ## Details
 

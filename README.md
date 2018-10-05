@@ -15,7 +15,7 @@ _4 TILs ..._
 
 ### Atom
 - [Installしておきたいパッケージ](Atom/Atom-Packages.md)
-- [CodeBlockでc#を構文強調で記述](CSharp-SyntaxHighlighting.md)
+- [CodeBlockでc#を構文強調で記述](Atom/CSharp-SyntaxHighlighting.md)
 
 ### CSharp
 - ...
