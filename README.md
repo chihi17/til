@@ -25,7 +25,7 @@ _4 TILs ..._
 
 ### Uncategorized
 - [アプリをつくるときに気を付けること](Uncategorized/CreateAppCaution.md)
-- [TILレポジトリとは](Uncategorized/WhatsTil.md)
+- [TILレポジトリとは](Uncategorized/WhatsTIL.md)
 
 
 ## About
