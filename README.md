@@ -1,7 +1,7 @@
 # TIL
 >Today I Learned  
 
-_6 TILs ..._
+_7 TILs ..._
 
 ***
 
@@ -21,10 +21,10 @@ _6 TILs ..._
 - [C#の言語バージョンと.NetFreamworks](CSharp/CSharp-and-Framework-Version.md)
 
 ### GitHub
-- ...
+- [IFTTT * GitHub](GitHub/IFTTT.md)
 
 ### Subversion
-- **調査中** [SVN post commit FS processing had error [S10]](Subversion/SVN-CommitError.md)
+- **調査中** [SVN post commit FS processing had error \[S10\]](Subversion/SVN-CommitError.md)
 
 ### Uncategorized
 - [アプリをつくるときに気を付けること](Uncategorized/CreateAppCaution.md)
