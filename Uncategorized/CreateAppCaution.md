@@ -65,4 +65,8 @@ private void version(version verNo)
 
 if文の部分はSwitch文に内包すると、branchが発生しても対応することができる。  
 
-ただし、分岐しない場合は上記のif文の方が人為的なミスで途中のversionのflag変更がこぼれる可能性が少ないような気もする。  
+ただし、分岐しない場合は上記のif文の方が人為的なミスで途中のversionのflag変更がこぼれる可能性が少ないような気もする。
+
+（Update:2018/12/28）
+- 自分より新しいversionのflagがFalseになる様な連鎖が必要
+- ここで記載するversionは「仕様書の」versionであることをわかる様な名称にする必要がある
