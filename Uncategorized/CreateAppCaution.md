@@ -70,3 +70,35 @@ if文の部分はSwitch文に内包すると、branchが発生しても対応す
 （Update:2018/12/28）
 - 自分より新しいversionのflagがFalseになる様な連鎖が必要
 - ここで記載するversionは「仕様書の」versionであることをわかる様な名称にする必要がある
+
+（Update:2019/01/07）  
+Sample
+~~~ csharp
+private void btnOk_Click(object sender, EventArgs e)
+{
+    var radioButtonChecked = gbUapp.Controls.OfType<RadioButton>().SingleOrDefault(rb => rb.Checked == true);
+    if(radioButtonChecked == null)
+    {
+        _logBox.WarningWrite("mode:選択されていません。");
+        return;
+    }
+    switch(radioButtonChecked.Name)
+    {
+        case "rb103E":
+            _logBox.NormalWrite("mode:仕様103E");
+            StaticObject.is104E = false;
+            StaticObject.is105E = false;
+            break;
+        case "rb104E":
+            _logBox.NormalWrite("mode:仕様104E");
+            StaticObject.is104E = true;
+            StaticObject.is105E = false;
+            break;
+        case "rb105E":
+            _logBox.NormalWrite("mode:最新");
+            StaticObject.is104E = true;
+            StaticObject.is105E = true;
+            break;
+    }
+}
+~~~
