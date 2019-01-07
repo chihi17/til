@@ -1,7 +1,7 @@
 # TIL
 >Today I Learned  
 
-_7 TILs ..._
+_8 TILs ..._
 
 ***
 
@@ -19,6 +19,7 @@ _7 TILs ..._
 
 ### CSharp
 - [C#の言語バージョンと.NetFreamworks](CSharp/CSharp-and-Framework-Version.md)
+- [仕様書のversionに併せた分岐を用意する](CSharp/ManageTheVersionOfTheSpecification.md)
 
 ### GitHub
 - [IFTTT * GitHub](GitHub/IFTTT.md)
