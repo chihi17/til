@@ -1,7 +1,7 @@
 # TIL
 >Today I Learned  
 
-_8 TILs ..._
+_9 TILs ..._
 
 ***
 
@@ -9,6 +9,7 @@ _8 TILs ..._
 - [Atom](#atom)
 - [C#](#csharp)
 - [GitHub](#Github)
+- [Subversion](#Subversion)
 - [Uncategorized](#Uncategorized)
 
 ***
@@ -30,18 +31,14 @@ _8 TILs ..._
 
 ### Uncategorized
 - [アプリをつくるときに気を付けること](Uncategorized/CreateAppCaution.md)
+
+
 - [TILレポジトリとは](Uncategorized/WhatsTIL.md)
-
-
-## About
-
-端末ごとにメモデータが散るのでここに記録します。  
-業界的な通例などは理解していません。  
-
-問題があればIssueへお願いします。  
-日本語以外は時間が許す限り頑張りますが、わからなかったらごめんなさい。
-
 - [TIL Template](TilTemplate.md)
 
+## About
+ご連絡はIssueへお願いします。  
+
 ## Licence
-&copy; 2018 [chihi17](http://github.com/chihi17/)
+&copy; 2018 [chihi17](http://github.com/chihi17/)  
+<!-- This repository is licensed under the MIT license. See `LICENSE` for details.-->

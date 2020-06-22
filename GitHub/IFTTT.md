@@ -51,10 +51,3 @@ IssueのClose時間
 >{{IssueBody}}  
 
 Issue本文  
-
-
-## Details
-
-## Trable
-
-## Reference
