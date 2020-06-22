@@ -16,6 +16,7 @@ _8 TILs ..._
 ### Atom
 - [Installしておきたいパッケージ](Atom/Atom-Packages.md)
 - [CodeBlockでc#を構文強調で記述](Atom/CSharp-SyntaxHighlighting.md)
+- [AtomとGitHubをつなぐ](Atom/ConnectGitHub.md)
 
 ### CSharp
 - [C#の言語バージョンと.NetFreamworks](CSharp/CSharp-and-Framework-Version.md)
