@@ -20,7 +20,7 @@ Atom標準機能で行える
 gitCommitはできるのに、GitHubにPush出来ない
 ![Error-UnableToPush](Error-UnableToPush.png)
 
-参考：[Github Error “fatal: Unable to find remote helper for ‘https’”](https://github.com/atom/atom/issues/16655)  
+参考：[Github Error “fatal: Unable to find remote helper for ‘https’”](https://github.com/atom/atom/issues/16655#issuecomment-424891835)  
 --> gitの一部機能がinstallされていない可能性がある模様
 
 1. [Install Homebrew](https://brew.sh/)
