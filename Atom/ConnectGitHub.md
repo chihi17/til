@@ -1,14 +1,15 @@
 # AtomとGitHubをつなぐ
 
->phenomenon
-
-Problem presentation
+TIL更新を日常的にするためにも、もっと気軽に行いたい
 
 ## Premise
-前提
+
+- [Atom](https://atom.io/)で記入している
+- [GitHub](https://github.com/chihi17/til)に保存している
 
 ## Result
-結果
+
+Atom標準機能で行える
 
 ## Details
 詳細
