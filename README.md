@@ -1,23 +1,25 @@
 # TIL
-> Today I learned
+> Today I Learned
 
 今日学んだことを記録していくレポジトリです。  
 
-以前カテゴリーごとに纏めていた頃は、纏めることに時間がかかり、うまく継続できませんでした。手法を変えて、自分のための作業ログを残すことにします。
-ジャンルごとに纏められる程ボリュームが増えたり、学ぶ上での成果物が出てくるようになればポートフォリオ的に纏め直すかもしれません。
+自分のための作業ログを残すことにします。
+ジャンルごとに纏められる程ボリュームが増えたり、学ぶ上での成果物が出てくるようになればポートフォリオ風に纏め直すかもしれません。
 
 いつかそうなることを目指して…
 
----
-### Categories
+### works
 - Adobe Illustrator
+- Autodesk AutoCAD
+- Autodesk Fusion360
 - C#
 - CSS
 - Git
 - GitHub
 - HTML
+- JavaScript
 - Markdown
-- ShellScript
+- SQL
 - Subversion
 - VSCode
 
